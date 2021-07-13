@@ -15,3 +15,8 @@ A discord bot whose function is to create tickets for user assistance.
 
 > **Close or delete a ticket whenever you want with just one click.**
 ![close or delete](https://i.imgur.com/4eaGqYt.gif)
+
+
+
+> **See what function each bot command has with a few simple commands.**
+![help](https://i.imgur.com/v1vG4qq.gif)
