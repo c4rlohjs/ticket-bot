@@ -22,10 +22,10 @@ A discord bot whose function is to create tickets for user assistance.
 ![help](https://i.imgur.com/v1vG4qq.gif)
 
 > **Installation**\n
-Open your CMD or Terminal and run the following commands. (You need to have node.js installed)\n
-1.- `npm i discord.js`_(with this command we will install the discord.js library)_\n
-2.- `npm i quick.db` _(with this command we will install the quick.db library)_\n
+>>Open your CMD or Terminal and run the following commands. (You need to have node.js installed)\n
+>>1.- `npm i discord.js`_(with this command we will install the discord.js library)_\n
+>>2.- `npm i quick.db` _(with this command we will install the quick.db library)_\n
 
-_version of node.js used in development: v14.17.3_\n
-_version of discord.js used in development: ^12.5.3_\n
-_version of quick.db used in development: ^7.1.3_\n
+>_version of node.js used in development: v14.17.3_\n
+>_version of discord.js used in development: ^12.5.3_\n
+>_version of quick.db used in development: ^7.1.3_\n
