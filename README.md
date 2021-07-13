@@ -20,3 +20,12 @@ A discord bot whose function is to create tickets for user assistance.
 
 > **See what function each bot command has with a few simple commands.**
 ![help](https://i.imgur.com/v1vG4qq.gif)
+
+> **Installation**
+Open your CMD or Terminal and run the following commands. (You need to have node.js installed)
+1.- `npm i discord.js`_(with this command we will install the discord.js library)_
+2.- `npm i quick.db` _(with this command we will install the quick.db library)_
+
+_version of node.js used in development: v14.17.3_
+_version of discord.js used in development: ^12.5.3_
+_version of quick.db used in development: ^7.1.3_
