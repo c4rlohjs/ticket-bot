@@ -8,7 +8,7 @@ A discord bot whose function is to create tickets for user assistance.
 
 
 
-> **When you open the channels you will see how many tickets have been opened with an enumeration system that the bot has.**
+> **When you open the channels you will see how many tickets have been opened with an enumeration system that the bot has.**<br />
 ![numeration](https://i.imgur.com/ws8nWn0.gif)
 
 
