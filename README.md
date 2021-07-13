@@ -3,7 +3,7 @@ A discord bot whose function is to create tickets for user assistance.
 
 > **Create a channel for users to open their tickets.**
 ![createchannel](https://i.imgur.com/8yn4PDB.gif)
-![messagechannel](https://i.imgur.com/kLNQJNj.gif)
+![messagechannel](https://i.imgur.com/kLNQJNj.gif)<br />
 ![channelcreate](https://i.imgur.com/wONtls5.gif)
 
 
@@ -21,7 +21,7 @@ A discord bot whose function is to create tickets for user assistance.
 > **See what function each bot command has with a few simple commands.**
 ![help](https://i.imgur.com/v1vG4qq.gif)
 
-> **Installation**\n
+> **Installation**
 >>Open your CMD or Terminal and run the following commands. (You need to have node.js installed)<br />
 >>1.- `npm i discord.js`_(with this command we will install the discord.js library)_<br />
 >>2.- `npm i quick.db` _(with this command we will install the quick.db library)_<br />
