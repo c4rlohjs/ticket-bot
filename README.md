@@ -13,5 +13,5 @@ A discord bot whose function is to create tickets for user assistance.
 
 
 
-> **Close or delete a ticket whenever you want.**
+> **Close or delete a ticket whenever you want with just one click.**
 ![close or delete](https://i.imgur.com/4eaGqYt.gif)
