@@ -18,7 +18,12 @@ A discord bot whose function is to create tickets for user assistance.
 
 
 
-> **See what function each bot command has with a few simple commands.**
+> **Select a role so that it can attend the tickets.**
+![role](https://i.imgur.com/6xOhFQy.gif)
+
+
+
+> **See what function each bot command has with a few simple commands.**<br />
 ![help](https://i.imgur.com/v1vG4qq.gif)
 
 > **Installation**
